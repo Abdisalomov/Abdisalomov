@@ -1,5 +1,5 @@
 - 👋 <h1>Hi, I’m @Abdisalomov</h1>
-    <img src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1" alt="">
+    <img width="100%" height="400px" src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1" alt="">
 
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning ...
