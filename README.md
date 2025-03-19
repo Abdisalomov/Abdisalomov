@@ -17,6 +17,10 @@ Tashkent University of Information Technologies
 
 <a href="https://t.me/frontend_9474" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 
+<hr>
+
+### 💻 Technologies & Languages
+
 
 
 
