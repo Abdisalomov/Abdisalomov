@@ -22,7 +22,7 @@ Tashkent University of Information Technologies
 ### 💻 Technologies, Languages, Libraries
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,git,github,npm,html,css,pug,tailwind,bootstrap@5,notion" />
+  <img src="https://skillicons.dev/icons?i=js,git,github,npm,html,css,pug,tailwind,bootstrap,notion" />
 </div>
 
 
