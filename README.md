@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Nodirbek</h1>
+<h1 color"red">Hi there, I'm Nodirbek</h1>
 
 <hr height"5px" color"red">
 
