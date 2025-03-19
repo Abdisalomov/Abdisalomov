@@ -4,7 +4,7 @@
 
 <h3>.Welcome to my GitHub!</h3>
 
-<a>Education Tashkent University of Information Technologies</a>
+<p>Education: Tashkent University of Information Technologies</p>
 
 
 
