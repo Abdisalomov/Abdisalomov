@@ -2,7 +2,7 @@
 
 <hr>
 
-<h2>Me</h2>
+<h3>Me</h3>
 <h3>.Welcome to my GitHub!</h3>
 
 <p> Education:
