@@ -6,6 +6,14 @@
 
 <p>Education: Tashkent University of Information Technologies</p>
 
+<div align="center">
+
+<a href="https://github.com/jasurhaydarovcode">
+<img src="svg/mind.svg">
+</a>
+
+</div>
+
 
 
 
