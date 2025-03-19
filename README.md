@@ -1,6 +1,6 @@
-<h1 color"red">Hi there, I'm Nodirbek</h1>
+<h1>Hi there, I'm Nodirbek</h1>
 
-<hr height"5px" color"red">
+<hr height"15px">
 
 <h3>.Welcome to my GitHub!</h3>
 
