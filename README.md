@@ -2,8 +2,8 @@
 
 <hr>
 
-<h3 font-size"48px">Me</h3>
-<h3>.Welcome to my GitHub!</h3>
+<h3>Me</h3>
+<h4>.Welcome to my GitHub!</h4>
 
 <p> Education:
 <a href="https://tuit.uz/">
