@@ -22,7 +22,7 @@ Tashkent University of Information Technologies
 ### 💻 Technologies & Languages
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,git,html,htmx,css,,ts&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,git,github,html,htmx,css,ts&perline=6&theme=dark" />
 </div>
 
 
