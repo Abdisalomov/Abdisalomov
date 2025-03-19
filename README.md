@@ -11,6 +11,8 @@ Tashkent University of Information Technologies
 </a>
 </p>
 
+<hr>
+
 
 
 
