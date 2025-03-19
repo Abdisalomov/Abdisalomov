@@ -6,14 +6,12 @@
 
 <p>Education: Tashkent University of Information Technologies</p>
 
-<div align="center">
-
 <p> Education
 <a href="https://tuit.uz/">
 Tashkent University of Information Technologies
 </a>
 </p>
-</div>
+
 
 
 
