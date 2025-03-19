@@ -4,6 +4,6 @@
 
 <h3>.Welcome to my GitHub!</h3>
 
-<p>Education: Tashkent University of Information Technologies</p>
+<p>Education: <a href"https://tuit.uz/"> Tashkent University of Information Technologies</a></p>
 
 
