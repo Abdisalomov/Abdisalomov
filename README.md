@@ -8,10 +8,11 @@
 
 <div align="center">
 
-<a href="https://github.com/jasurhaydarovcode">
-TATU
+<p> Education
+<a href="https://tuit.uz/">
+Tashkent University of Information Technologies
 </a>
-
+</p>
 </div>
 
 
