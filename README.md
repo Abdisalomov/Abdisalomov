@@ -29,7 +29,7 @@ Tashkent University of Information Technologies
 ## 🛠  Frameworks & Library
 
 <div>
-  <img src="https://skillicons.dev/icons?i=bootstrap,gulp,tailwind,tensorflow,threejs,nextjs,pug,react,sass,svelte,jquery,vite,gsap&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,gulp,tailwind,pug,react,sassgsap&perline=6&theme=dark" />
 </div>
 
 
