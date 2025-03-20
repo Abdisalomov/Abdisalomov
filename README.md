@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Me</h3>
+# Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 <h4>.Welcome to my GitHub!</h4>
 
 <p> Education:
