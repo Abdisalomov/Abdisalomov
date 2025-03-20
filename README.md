@@ -5,7 +5,7 @@
 # Me Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 <h4>.Welcome to my GitHub!</h4>
 
-### Education:
+##### Education:
 <a href="https://tuit.uz/">Tashkent University of Information Technologies</a>
 
 <hr>
