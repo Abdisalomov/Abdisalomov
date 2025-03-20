@@ -33,7 +33,7 @@ Tashkent University of Information Technologies
 </div>
 
 
-## 🛠  Others
+## 🔧 Others
 
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,notion wordpress&perline=6&theme=dark" />
