@@ -19,6 +19,10 @@
 <a href="https://www.linkedin.com/in/nodirbek-abdisalomov-15974b345/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
 
+
+<br>
+<br>
+<br>
 <hr>
 
 
