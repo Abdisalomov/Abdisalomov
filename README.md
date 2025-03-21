@@ -3,7 +3,7 @@
 <hr>
 
 # Me Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="36px" height="36px"> .Welcome to my GitHub! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="36px" height="36px">
+### .Welcome to my GitHub! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="56px" height="56px">
 
 ### Education: <a href="https://tuit.uz/">Tashkent University of Information Technologies</a>
 
