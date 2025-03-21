@@ -5,12 +5,12 @@
 # Me Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 
-#
+##
 **.Welcome to my GitHub!** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="56px" height="56px">
 
- Education: <a href="https://tuit.uz/">Tashkent University of Information Technologies</a>
+ **Education:** <a href="https://tuit.uz/">Tashkent University of Information Technologies</a>
 
-<p>How to contact me:</p>
+**How to contact me:**
 
 <a href="https://t.me/frontend_9474" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 <a href="https://www.linkedin.com/in/nodirbek-abdisalomov-15974b345/" target="_blank">
