@@ -21,8 +21,6 @@
 
 **Useful platforms and sites**
 
-
-<br>
 <br>
 <br>
 
