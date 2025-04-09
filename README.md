@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
 
 **Useful platforms and sites**
+<a href="https://www.sammi.ac/" target="_blank">Sammi.ac</a>
+<a href="https://www.w3schools.com/" target="_blank">W3schools</a>
 
 <br>
 <br>
