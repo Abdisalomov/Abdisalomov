@@ -21,7 +21,7 @@
 
 **Useful platforms and sites**
 <br>
-<a href="https://www.sammi.ac/" target="_blank">Sammi.ac <img src="https://www.sammi.ac/logo.svg"></a>
+<a href="https://www.sammi.ac/" target="_blank"><img src="https://www.sammi.ac/logo.svg" width="26px" height="26px"> Sammi.ac</a>
 <br>
 <a href="https://www.w3schools.com/" target="_blank">W3schools</a>
 
