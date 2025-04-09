@@ -25,9 +25,6 @@
 <br>
 <a href="https://www.w3schools.com/" target="_blank">W3schools</a>
 
-<br>
-<br>
-
 <hr>
 
 
