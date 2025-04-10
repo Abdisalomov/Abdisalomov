@@ -37,7 +37,7 @@
 ## 🛠  Frameworks & Library
 
 <div>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,pug,react,sass,npm,gsap&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,gsap&perline=6&theme=dark" />
 </div>
 
 
