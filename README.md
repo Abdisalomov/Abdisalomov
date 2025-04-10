@@ -44,7 +44,7 @@
 ## 🔧 Others
 
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github, wordpress&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github wordpress&perline=6&theme=dark" />
 </div>
 
 
