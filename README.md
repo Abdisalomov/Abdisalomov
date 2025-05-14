@@ -31,7 +31,7 @@
 ## 💻 Technologies & Languages
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
 </div>
 
 ## 🛠  Frameworks & Library
